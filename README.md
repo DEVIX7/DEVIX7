@@ -1,5 +1,5 @@
 # 💫 About Me:
-Amateur programmer Python and Lua<br>🔭 I’m currently working on AutoRejoin and AutoStats<br>
+Amateur programmer Python and Lua<br>🔭 I’m currently working on AutoRejoin<br>
 
 
 # 💻 Tech Stack:
