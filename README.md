@@ -1,2 +1,1 @@
-# Our team is temporarily stepping away from Lua scripting for Roblox.
-- DEVIX7 (Scripter Team)
+# Three people have left our team, and now there are few of us left (2.5 individuals). We are considering the possibility of recovering the scripts that have been abandoned. We believe that "DEVIX7" will no longer be a team, and we will continue to perform tasks under a single name, without identifying ourselves as the "DEVIX7" team.
