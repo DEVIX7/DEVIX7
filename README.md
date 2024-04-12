@@ -10,11 +10,11 @@
 
 ###
 
-<p align="center">Scripter amateur<br>I'm learning rblx LuaU</p>
+<p align="left">Scripter amateur<br>I'm learning rblx LuaU<br><br>Social networks:</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="<https://discord.com/users/463623487987122186>" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
   </a>
@@ -39,7 +39,7 @@
 
 ###
 
-<img align="left" height="100" src="https://i.pinimg.com/564x/07/b7/fb/07b7fb7bcc18a262a4576cf994eac2e4.jpg"  />
+<img align="left" height="125" src="https://i.pinimg.com/564x/07/b7/fb/07b7fb7bcc18a262a4576cf994eac2e4.jpg"  />
 
 ###
 
@@ -47,17 +47,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devix7.devix7&left_color=black&right_color=blue&left_text=How%20many%20people/bot%20watching%20my%20profile"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devix7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devix7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=devix7.devix7&left_color=black&right_color=blue&left_text=How%20many%20people/bot%20watching%20my%20profile"  />
 
 ###
