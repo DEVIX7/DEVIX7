@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is DEVIX7</p>
+<p align="left">My name is DEVIX7 and I'm scripter amateur,</p>
 
 ###
 
@@ -10,43 +10,47 @@
 
 ###
 
-<p align="left">Scripter amateur<br>I'm learning rblx LuaU<br><br>Social networks:</p>
+<p align="left">✨ Making mistakes due to low experience <br>🎯 Goals: knowledge of Lua and Python</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
-  <a href="https://discord.com/users/463623487987122186" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@devix7_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  </a>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
 </div>
 
 ###
 
-<h2 align="center">I code with</h2>
+<br clear="both">
+
+<div align="left">
+  <a href="https://discord.com/users/463623487987122186" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@devix7_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devix7.devix7&left_color=black&right_color=blue"  />
 </div>
 
 ###
 
-<img align="left" height="125" src="https://i.pinimg.com/564x/07/b7/fb/07b7fb7bcc18a262a4576cf994eac2e4.jpg"  />
-
-###
-
-<h3 align="left">Best stats in the world</h3>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=devix7.devix7&left_color=black&right_color=blue&left_text=How%20many%20people/bot%20watching%20my%20profile"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devix7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devix7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devix7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
