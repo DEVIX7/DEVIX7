@@ -27,7 +27,7 @@
 
   - [T́̀̀͐̃́͐͡D҇͐͐̽͋̒̅͗͊͋̀X̾̈́̈̏͊̅̀̅͡ Strat](https://github.com/DEVIX7/X2botWJuv8stnFRnJTDGqoqtRN8gHtTDXStrat): Macro recording/playback system for third-party executors.
   - [Auto VIP Server Rejoiner](https://github.com/DEVIX7/Auto-vip-server-rejoiner): Universal Auto vip server rejoiner for rblx android.
-  - [Auto UWP RBLX "installer (Archive)](https://github.com/devix7/project2): Automatically create copies for UWP rblx.
+  - [Auto UWP RBLX "installer (Archive)](https://github.com/DEVIX7/Auto-UWP-RBLX-installer): Automatically create copies for UWP rblx.
 </p>
 
 ## Social:
